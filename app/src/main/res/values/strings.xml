@@ -12,4 +12,8 @@ from.</string>
     <string name="affirmation8">I have the courage to follow my heart.</string>
     <string name="affirmation9">Things will unfold at precisely the right time.</string>
     <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+
+
+    <string name="linear_txt">Lineaire</string>
+    <string name="grid_txt">Grille</string>
 </resources>
